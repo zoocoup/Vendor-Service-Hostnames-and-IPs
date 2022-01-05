@@ -1,6 +1,8 @@
 # Kolide Agent to Servers Connectivity
 # https://help.kolide.com/en/articles/4252704-kolide-agent-to-servers-connectivity
 
+# Last edit: 20220105
+
 _Hostnames_
 dl.kolide.co	
 k2control.kolide.com

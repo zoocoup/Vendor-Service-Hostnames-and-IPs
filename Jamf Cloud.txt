@@ -4,6 +4,8 @@
 # Network Ports Used by Jamf Pro
 # https://docs.jamf.com/technical-articles/Network_Ports_Used_by_Jamf_Pro.html
 
+# Last edit: 20220105
+
 # US only
 
 _Hostnames_

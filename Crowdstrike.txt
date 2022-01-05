@@ -1,6 +1,8 @@
 # Cloud IP Addresses
 # https://falcon.crowdstrike.com/documentation/65/cloud-ip-addresses
 
+# Last edit: 20220105
+
 _Hostnames_
 assets-public.falcon.crowdstrike.com
 assets.falcon.crowdstrike.com
