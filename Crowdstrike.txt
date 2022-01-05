@@ -1,0 +1,12 @@
+# Cloud IP Addresses
+# https://falcon.crowdstrike.com/documentation/65/cloud-ip-addresses
+
+_Hostnames_
+assets-public.falcon.crowdstrike.com
+assets.falcon.crowdstrike.com
+falcon.crowdstrike.com
+lfodown01-b.cloudsink.net
+ts01-b.cloudsink.net
+
+_IPs_
+[none]

@@ -1,0 +1,34 @@
+# Permitting Inbound/Outbound Traffic with Jamf Cloud
+# https://docs.jamf.com/technical-articles/Permitting_InboundOutbound_Traffic_with_Jamf_Cloud.html
+# 
+# Network Ports Used by Jamf Pro
+# https://docs.jamf.com/technical-articles/Network_Ports_Used_by_Jamf_Pro.html
+
+# US only
+
+_Hostnames_
+app.pendo.io
+cdn.pendo.io
+csa.services.jamfcloud.com
+[company name].jamfcloud.com
+ics.services.jamfcloud.com
+pendo-io-static.storage.googleapis.com
+use1-jcds.services.jamfcloud.com
+use1-jcdsdownloads.services.jamfcloud.com
+
+Plus an ELB address something like [company name]-alb-[id].us-east-1.elb.amazonaws.com
+
+_IPs_
+2.223.7.151
+3.226.23.14
+34.233.253.88
+34.234.26.211
+52.1.215.211
+52.1.62.94
+52.203.216.218
+52.39.2.203
+52.39.4.253
+52.71.240.248
+52.72.152.43
+54.208.14.206
+54.208.84.215
