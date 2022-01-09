@@ -1,7 +1,9 @@
 # Cloud IP Addresses
 # https://falcon.crowdstrike.com/documentation/65/cloud-ip-addresses
 
-# Last edit: 20220105
+# Depending on global region there might be additional hosts
+# Last edit: 20220109
+
 
 _Hostnames_
 assets-public.falcon.crowdstrike.com
