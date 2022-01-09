@@ -1,0 +1,16 @@
+# From the SecureW2 JoinNow Deployment Guide.pdf
+
+# Last edit: 20220105
+
+_Hostnames_
+auth.securew2.com
+cloud.securew2.com
+crl.securew2.com
+pki-services.securew2.com
+portal.securew2.com
+RADIUS1.securew2.com
+RADIUS2.securew2.com	
+service.securew2.com
+
+_IPs_
+[none]

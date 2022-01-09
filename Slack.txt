@@ -1,0 +1,69 @@
+# Manage Slack connection issues
+# https://slack.com/help/articles/360001603387-Manage-Slack-connection-issues
+#
+# Approve Slack workspaces for your network
+# https://slack.com/help/articles/360024821873-Approve-Slack-workspaces-for-your-network
+#
+# https://[instance name].slack.com/help/urls
+
+# Last edit: 20220109
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.chime.aws
+
+# Rest of the domains
+a.slack-edge.com
+a.slack-imgs.com
+admin.slack.com
+alpha.slack.com
+api.slack.com
+app.slack.com
+assets.slack.com
+avatars.slack-edge.com
+b.slack-edge.com
+b.slack-imgs.com
+beta.slack.com
+blog.slack.com
+ca.slack-edge.com
+downloads.slack-edge.com
+edgeapi.slack.com
+email.slack.com
+email2.slack.com
+email3.slack.com
+email4.slack.com
+emoji.slack-edge.com
+example.slack.com
+files-edge.slack.com
+files-origin.slack.com
+files.slack.com
+[instance name].slack.com
+global-upload-edge.slack.com
+go-beta.slack.com
+go-debug.slack.com
+go.slack.com
+help.slack.com
+hooks.slack.com
+join.slack.com
+my.slack.com
+oauth2.slack.com
+platform-tls-client.slack.com
+platform.slack-edge.com
+slack-email.slack.com
+slack-files.com
+slack-imgs.com
+slack-infra.slack.com
+slack.com
+slack.global.ssl.fastly.net
+slackb.com
+spellcheck.slack-edge.com
+status.slack.com
+try.slack.com
+universal-upload-edge.slack.com
+upload.slack.com
+wss-backup.slack.com
+wss-mobile.slack.com
+wss-primary.slack.com
+
+_IPs_
+[none]

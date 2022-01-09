@@ -1,0 +1,69 @@
+# Configuring A Firewall For Box Applications
+# https://support.box.com/hc/en-us/articles/360043696434-Configuring-A-Firewall-For-Box-Applications
+# 
+# Box Connectivity Tests
+# https://support.box.com/hc/en-us/articles/360043694474-Box-Connectivity-Tests
+
+# Last edit: 20220109
+
+_Hostnames_
+2.realtime.services.box.net
+a.box.com
+account.box.com
+api.box.com
+app.box.com
+blog.box.com
+captcha.boxcdn.net
+cdn01.boxcdn.net
+cdn20.boxcdn.net
+community.box.com
+developer.box.com
+dl.boxcloud.com
+dl2.boxcloud.com
+dl20.boxcloud.com
+dl3.boxcloud.com
+docs.box.com
+e3.boxcdn.net
+ec2apne1.boxcloud.com
+ec2apse2.boxcloud.com
+ec2cac1.boxcloud.com
+ec2euc1.boxcloud.com
+ec2euw2.boxcloud.com
+ent.box.com
+fupload-ec2apne1.app.box.com
+fupload-ec2apne1.ent.box.com
+fupload-ec2apse2.app.box.com
+fupload-ec2apse2.ent.box.com
+fupload-ec2cac1.app.box.com
+fupload-ec2cac1.ent.box.com
+fupload-ec2euc1.app.box.com
+fupload-ec2euc1.ent.box.com
+fupload-ec2euw2.app.box.com
+fupload-ec2euw2.ent.box.com
+fupload-ec2usw1.app.box.com
+fupload-ec2usw1.ent.box.com
+images-captcha.boxcdn.net
+m.account.box.com
+m.app.box.com
+m.box.com
+m.ent.box.com
+newassets-captcha.boxcdn.net
+notes.services.box.com
+public.boxcloud.com
+reportapi-captcha.boxcdn.net
+sso.services.box.net
+status.box.com
+support.box.com
+upload.app.box.com
+upload.box.com
+upload.box.net
+upload.ent.box.com
+www.box.com
+www.box.net
+[instance name].account.box.com
+[instance name].app.box.com
+[instance name].box.com
+[instance name].ent.box.com
+
+_IPs_
+[none]

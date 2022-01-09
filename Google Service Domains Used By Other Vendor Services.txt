@@ -1,0 +1,73 @@
+# These are Google service domains that are used by multiple other third-party services or Google desktop applications
+# 
+# Android Enterprise Migration Bluebook
+# https://static.googleusercontent.com/media/www.android.com/en//static/2016/pdfs/enterprise/Android-Enterprise-Migration-Bluebook_2019.pdf
+
+# Last edit: 20220109
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.ggpht.com 
+*.googleapis.com
+*.googleusercontent.com
+*.gstatic.com
+*gstatic.com
+*gvt1.com
+*gvt2.com
+*gvt3.com
+accounts.google.[country]
+
+RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
+
+# Rest of the domains
+accounts.google.com
+accounts.youtube.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
+android.clients.google.com
+android.com
+android.googleapis.com
+apis.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+connectivitycheck.android.com
+cri.pki.goog
+device-provisioning.googleapis.com
+dl-ssl.google.com 
+dl.google.com 
+fcm-xmpp.googleapis.com
+fcm.googleapis.com
+fonts.googleapis.com
+fonts.gstatic.com
+gcm-http.googleapis.com
+gcm-xmpp.googleapis.com
+google-analytics.com 
+googleusercontent.com 
+mtalk-dev.google.com
+mtalk-staging.google.com
+mtalk.google.com
+mtalk4.google.com
+notifications.google.com
+ocsp.pki.goog
+ogs.google.com
+omahaproxy.appspot.com
+pki.google.com
+play.google.com
+ssl.google-analytics.com
+www.google-analytics.com
+www.google.com
+www.gstatic.com
+www.recaptcha.net
+
+_IPs_
+[none]

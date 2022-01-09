@@ -1,0 +1,58 @@
+# These are the service domains used by the Google Workspace service
+#
+# Drive and Sites firewall and proxy settings
+# https://support.google.com/a/answer/2589954?hl=en
+# 
+# Gmail firewall settings
+# https://support.google.com/a/answer/9497877?hl=en
+
+# Last edit: 20220109
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.c.docs.google.com
+*.client-channel.google.com
+*.clients[N].google.com
+*.docs.google.com
+*.drive.google.com
+*.googleapis.com
+*.googlegroups.com
+*.googleusercontent.com
+*.gstatic.com
+*.gvt1.com
+*.sites.google.com
+[N].client-channel.google.com
+lh[N].google.com
+clients*.google.com
+clients[N].google.com
+
+# Rest of the domains
+accounts.google.com
+apis.google.com
+contacts.google.com
+docs.google.com
+drive.google.com
+gg.google.com
+googledrive.com
+hangouts.google.com
+inputtools.google.com
+ipv4.google.com
+mail.google.com
+ogs.google.com
+play.google.com
+s.ytimg.com
+script.google.com
+sheets.google.com
+sites.google.com
+slides.google.com
+ssl.google-analytics.com
+ssl.gstatic.com
+takeout.google.com
+video.google.com
+www.google.com
+www.googleadservices.com
+www.googletagmanager.com
+www.gstatic.com
+
+_IPs_
+[none]

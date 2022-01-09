@@ -1,0 +1,59 @@
+# Workday Data Centers
+# https://community.workday.com/node/29946
+# 
+# US Region - WD12 Data Center
+# https://community.workday.com/node/501205
+#
+# US Region - WD1 Data Center
+# https://community.workday.com/datacenter/WD1
+
+# Last edit: 20220108
+
+# Depending on account and global region there might be additional hosts
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.us.myworkdaymedia.com
+
+# Rest of the domains
+e2-enterprise-services1.myworkday.com
+e2-impl-cci.workday.com
+enterprise-services1.myworkday.com
+impl-cc.workday.com
+impl-cci.workday.com
+impl.workday.com
+impl.workdaycdn.com
+impl.workdaycdn.com.cn
+pf-service1.myworkday.com
+services1.myworkday.com
+sftp-impl.workday.com
+studio.myworkdaygadgets.com
+wd1-media-alt.myworkdaycdn.com
+wd1-media.myworkdaycdn.com
+wd1.myworkdaycdn.com.cn
+wd2-media-alt.workdaycdn.com
+wd2-media.workdaycdn.com
+wd2.mft.workday.com
+workday-mediaimport-us.s3-us-west-2.amazonaws.com
+workday-mediaimport-us.s3.amazonaws.com
+www.myworkday.com
+www.myworkdaycdn.com
+
+_IPs_
+209.177.165.130
+209.177.165.160
+209.177.165.161
+209.177.165.162
+209.177.167.130
+209.177.167.160
+209.177.167.161
+209.177.167.164
+209.177.167.165
+209.177.169.162
+
+_URLs_
+https://www.myworkday.com/[tenant name]
+https://impl.workday.com/[tenant name]/login.htmld
+https://impl.workday.com/[tenantname_preview]/login.htmld
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+

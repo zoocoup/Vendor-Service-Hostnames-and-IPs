@@ -1,0 +1,31 @@
+# Okta IP address allow list
+# https://help.okta.com/en/prod/Content/Topics/Security/ip-address-allow-listing.htm
+
+# Last edit: 20220105
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.kerberos.okta-emea.com 
+*.kerberos.okta.com 
+*.kerberos.oktapreview.com 
+*.mapbox.com
+*.mtls.okta-emea.com 
+*.mtls.okta.com
+*.mtls.oktapreview.com
+*.okta-emea.com
+*.okta-gov.com
+*.okta.com
+*.oktacdn.com 
+*.oktapreview.com
+[instance].okta.com
+
+RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
+
+# Rest of the domains
+crl3.digicert.com
+crl4.digicert.com
+ocsp.digicert.com
+
+
+_IPs_
+[none]

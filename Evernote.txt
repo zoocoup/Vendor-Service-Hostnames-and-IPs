@@ -1,0 +1,9 @@
+# Last edit: 20220105
+
+_Hostnames_
+evernotesupport.zendesk.com
+help.evernote.com
+update.evernote.com
+
+_IPs_
+[none]

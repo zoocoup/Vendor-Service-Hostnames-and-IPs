@@ -1,0 +1,27 @@
+# Ports Used by InsightIDR
+# https://docs.rapid7.com/insightidr/ports-used-by-insightidr/
+
+# Last edit: 20220109
+
+# Depending on global region there might be additional hosts
+# Does not include generic AWS S3 domains
+
+_Hostnames_
+data.insight.rapid7.com
+endpoint.ingress.rapid7.com
+insight.rapid7.com
+rapid7ipimseu.okta-emea.com
+us.bootstrap.endpoint.ingress.rapid7.com
+us.idr.insight.rapid7.com
+us.storage.endpoint.ingress.rapid7.com
+us2.bootstrap.endpoint.ingress.rapid7.com
+us2.data.insight.rapid7.com
+us2.endpoint.ingress.rapid7.com
+us2.storage.endpoint.ingress.rapid7.com
+us3.bootstrap.endpoint.ingress.rapid7.com
+us3.data.insight.rapid7.com
+us3.endpoint.ingress.rapid7.com
+us3.storage.endpoint.ingress.rapid7.com
+
+_IPs_
+[none]

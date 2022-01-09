@@ -1,0 +1,34 @@
+# The URLs will be account specific
+#
+# NetSuite IP Addresses
+# “NetSuite Customer Support will not provide you with a list of services or IP addresses for outbound communication from NetSuite.” 
+# https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N251955.html
+# 
+# URLs for Account-Specific Domains
+# https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_1498251763.html
+# “The Company URLs subtab would look like the following when logged in to the production account, if the account ID was 123456.”
+
+# Last edit: 20220105
+
+_Hostnames_
+outboundips.netsuite.com
+
+_IPs_
+[none]
+
+_URLS_
+https://[instance name]-sb2.app.netsuite.com/
+https://[instance name]-sb2.app.netsuite.com/app/login/secure/privatelogin.nl?c=[instance name]_SB2
+https://[instance name]-sb2.app.netsuite.com/pages/customerlogin.jsp?c=[instance name]_SB2&whence=
+https://[instance name]-sb2.extforms.netsuite.com
+https://[instance name]-sb2.restlets.api.netsuite.com
+https://[instance name]-sb2.suitetalk.api.netsuite.com
+https://[instance name].app.netsuite.com
+https://[instance name].app.netsuite.com/app/login/secure/privatelogin.nI?c=[instance name]
+https://[instance name].app.netsuite.com/pages/customerlogin.jsp?c=[instance name]&whence=
+https://[instance name].extforms.netsuite.com
+https://[instance name].restlets.api.netsuite.com
+https://[instance name].suitetalk.api.netsuite.com
+
+
+

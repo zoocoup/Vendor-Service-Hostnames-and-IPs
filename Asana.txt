@@ -1,0 +1,8 @@
+# Last edit: 20220105
+
+_Hostnames_
+app.asana.com
+connectivity-test.asana.com
+
+_IPs_
+[none]

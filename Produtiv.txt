@@ -1,0 +1,12 @@
+# Last edit: 20220106
+
+_Hostnames_
+api.productiv.com
+app.productiv.com
+login.app.productiv.com
+
+_IPs_
+[none]
+
+_URLs_
+[none]

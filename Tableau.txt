@@ -1,0 +1,48 @@
+# Internet Access Requirements
+# https://help.tableau.com/current/desktopdeploy/en-us/desktop_deploy_proxy.htm
+
+# Last edit: 20220109
+
+_Hostnames_
+
+#  Wildcards and prime top domain roots
+*.salesforce.com
+
+# Rest of the domains
+api.mapbox.com
+atr.licensing.tableau.com
+downloads.tableau.com
+licensing.tableau.com
+mapsconfig.tableau.com
+register.tableau.com
+report-issue.tableau.com
+www.tableau.com
+
+crl.rootca1.amazontrust.com
+crl.rootg2.amazontrust.com
+crl.sca1b.amazontrust.com
+crt.rootca1.amazontrust.com
+crt.sca0a.amazontrust.com
+crt.sca1a.amazontrust.com
+crt.sca1b.amazontrust.com
+crt.sca2a.amazontrust.com
+crt.sca3a.amazontrust.com
+crt.sca4a.amazontrust.com
+img.en25.com
+js-agent.newrelic.com
+ocsp.rootca1.amazontrust.com
+ocsp.rootg2.amazontrust.com
+ocsp.sca0a.amazontrust.com
+ocsp.sca1a.amazontrust.com
+ocsp.sca1b.amazontrust.com
+ocsp.sca2a.amazontrust.com
+ocsp.sca3a.amazontrust.com
+ocsp.sca4a.amazontrust.com
+s.ss2.us
+www.google-analytics.com
+
+_IPs_
+[none]
+
+_URL_
+[none]

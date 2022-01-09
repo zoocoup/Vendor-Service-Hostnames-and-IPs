@@ -1,0 +1,7 @@
+# Last edit: 20220105
+
+_Hostnames_
+desktop.docker.com
+
+_IPs_
+[none]

@@ -1,0 +1,22 @@
+# Last edit: 20220105
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.grammarly.com
+*.grammarly.io
+
+# Rest of the domains
+capi.grammarly.com
+femetrics.grammarly.io
+grammarly.zendesk.com
+static.zdassets.com
+
+_IPs_
+[none]
+
+_URLs_
+https://app.grammarly.com/diagnostic-test
+wss://capi.grammarly.com/fpws 
+wss://capi.grammarly.com/freews
+wss://dox.grammarly.com/documents
+wss://capi.grammarly.com/wstest

@@ -1,0 +1,23 @@
+# I am having trouble accessing my Postman account
+# https://support.postman.com/hc/en-us/articles/115003340969-I-am-having-trouble-accessing-my-Postman-account
+# 
+# Integrating with Postman
+# https://learning.postman.com/docs/integrations/intro-integrations/#static-ip-support
+
+# Last edit: 20220105
+
+_Hostnames_
+*.getpostman.com
+*.postman.co
+*.pstmn.io
+*postman.com
+
+# Rest of the domains
+bifrost-public-v4.gw.postman.com
+dl.pstmn.io
+go.postman.co
+identity.getpostman.com
+sentry-app.postmanlabs.com
+
+_IPs_
+3.212.102.200

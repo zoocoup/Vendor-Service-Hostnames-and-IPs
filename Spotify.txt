@@ -1,0 +1,9 @@
+# Last edit: 20220105
+
+_Hostnames_
+accounts.spotify.com
+dealer.spotify.com
+play.spotify.com
+
+_IPs_
+[none]

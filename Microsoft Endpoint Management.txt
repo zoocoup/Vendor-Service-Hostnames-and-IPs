@@ -1,0 +1,59 @@
+# These are the hosts and IPs used by Microsoft Endpoint Manager (aka Intune)
+# 
+# Network endpoints for Microsoft Intune
+# https://docs.microsoft.com/en-us/mem/intune/fundamentals/intune-endpoints
+# 
+# Microsoft Push Notifications Service (MPNS) Public IP ranges
+# https://www.microsoft.com/en-us/download/details.aspx?id=44535
+# 
+# Enterprise Firewall Configurations to Support WNS Traffic
+# https://docs.microsoft.com/en-us/windows/apps/design/shell/tiles-and-notifications/firewall-allowlist-config
+# 
+# Windows Update troubleshooting
+# https://docs.microsoft.com/en-us/windows/deployment/update/windows-update-troubleshooting
+
+# Last edit: 20220109
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.delivery.mp.microsoft.com
+*.do.dsp.mp.microsoft.com
+*.download.windowsupdate.com
+*.emdl.ws.microsoft.com
+*.events.data.microsoft.com	
+*.manage.microsoft.com
+*.officeconfig.msocdn.com 
+
+RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
+
+# Rest of the domains
+config.office.com
+enterpriseregistration.windows.net
+fef.msuc03.manage.microsoft.com
+graph.windows.net
+intunecdnpeasd.azureedge.net
+login.microsoftonline.com
+m.manage.microsoft.com
+mam.manage.microsoft.com
+naprodimedatahotfix.azureedge.net
+naprodimedatapri.azureedge.net
+naprodimedatasec.azureedge.net
+portal.manage.microsoft.com
+wip.mam.manage.microsoft.com
+
+_IPs_
+# Microsoft Push Notifications Service (MPNS) Public IP ranges
+13.68.22.128/32
+13.68.23.93/32
+13.75 91.62/32
+13.75.94.9/32
+134.170.142.0/25
+134.170.142.128/25
+134.170.168.0/25
+134.170.49.128/25
+134.170.57.128/25
+134.170.65.128/25
+157.55.104.0/26
+157.56.174.0/25
+23.102.60.119/32
+23.102.63.151/32

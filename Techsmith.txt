@@ -1,0 +1,19 @@
+#  Activating Camtasia While Using a Proxy Server
+# https://support.techsmith.com/hc/en-us/articles/360049786071-Activating-Camtasia-While-Using-a-Proxy-Server
+# 
+# Activating Snagit While Using a Proxy Server
+# https://support.techsmith.com/hc/en-us/articles/360050987971
+
+# Last edit: 20220109
+
+_Hostnames_
+activation.cloud.techsmith.com
+my.nalpeiron.com
+nsa.nalpeiron.com
+
+_IPs_
+184.106.60.185
+184.106.60.183
+
+_URLs_
+[none]

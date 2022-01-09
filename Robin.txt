@@ -1,0 +1,14 @@
+# Security and connection overview
+# https://support.robinpowered.com/hc/en-us/articles/204830146#whitelist
+
+# Last edit: 20220106
+
+_Hostnames_
+dashboard.robinpowered.com
+
+_IPs_
+# Needed for on-prem Exchange
+52.2.86.183
+52.1.210.4
+52.70.146.223
+52.2.109.92

@@ -1,0 +1,12 @@
+# Last edit: 20220105
+
+_Hostnames_
+app.mural.co
+realtime.mural.co
+image.mural.co
+notifier.mural.co
+enterprise.mural.co
+integrations.mural.co
+
+_IPs_
+[none]
