@@ -1,0 +1,20 @@
+# Hosts, Ports and Protocols needed for Amazon Chime services
+# https://answers.chime.aws/articles/123/hosts-ports-and-protocols-needed-for-amazon-chime.html
+
+# Last edit: 20220107
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+chime.aws
+*.chime.aws
+*.amazonaws.com
+
+RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
+
+_IPs_
+99.77.128.0/18
+13.248.147.139
+76.223.18.152
+
+_URLs_
+[none]
