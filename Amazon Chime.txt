@@ -1,5 +1,9 @@
 # Hosts, Ports and Protocols needed for Amazon Chime services
 # https://answers.chime.aws/articles/123/hosts-ports-and-protocols-needed-for-amazon-chime.html
+# 
+# Network configuration and bandwidth requirements
+# https://docs.aws.amazon.com/chime/latest/ag/network-config.html
+
 
 # Last edit: 20220107
 
@@ -11,10 +15,27 @@ chime.aws
 
 RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
 
+# Rest of the domains
+meet.an1.chime.in
+meet.as1.chime.in
+meet.as2.chime.in
+meet.chime.in
+meet.ew1.chime.in
+meet.se1.chime.in
+meet.ue1.chime.in
+meet.uw2.chime.in
+
 _IPs_
-99.77.128.0/18
 13.248.147.139
+3.80.16.0/23
+34.212.95.128/25
+34.223.21.0/25
+52.55.62.128/25
+52.55.63.0/25
 76.223.18.152
+99.77.128.0/18
+99.77.253.0/24
+
 
 _URLs_
 [none]
