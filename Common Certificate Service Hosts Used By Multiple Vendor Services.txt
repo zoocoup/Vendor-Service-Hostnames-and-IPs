@@ -1,6 +1,6 @@
 # These are certificate revocation list and online certificate status protocol sites that are used by multiple applications and services
 
-# Last edit: 20220106
+# Last edit: 20220111
 
 _Hostnames_
 certificates.godaddy.com
@@ -28,7 +28,9 @@ crt.sca1b.amazontrust.com
 crt.sca2a.amazontrust.com
 crt.sca3a.amazontrust.com
 crt.sca4a.amazontrust.com
+identrust.com
 isrg.trustid.ocsp.identrust.com
+lencr.org
 mscrl.microsoft.com
 ocsp.apple.com
 ocsp.digicert.cn
@@ -52,6 +54,7 @@ ocsp.verisign.net
 ocsp2.apple.com
 ocsp2.globalsign.com
 ocspx.digicert.com
+quovadisglobal.com
 secure.globalsign.com
 
 _IPs_
