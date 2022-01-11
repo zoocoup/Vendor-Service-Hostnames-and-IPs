@@ -3,7 +3,9 @@
 # 
 # Network configuration and bandwidth requirements
 # https://docs.aws.amazon.com/chime/latest/ag/network-config.html
-
+#
+# Amazon Chimes is the backend for Slack Calls
+# https://slack.com/intl/en-in/blog/news/slack-aws-drive-development-agility
 
 # Last edit: 20220111
 
