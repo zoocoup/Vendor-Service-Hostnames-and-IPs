@@ -5,7 +5,7 @@
 # https://docs.aws.amazon.com/chime/latest/ag/network-config.html
 
 
-# Last edit: 20220107
+# Last edit: 20220111
 
 _Hostnames_
 #  Wildcards and prime top domain roots
