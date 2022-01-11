@@ -1,0 +1,78 @@
+# Network requirements | RingCentral MVP
+# https://support.ringcentral.com/network-and-system-requirements/network-requirements/network-requirements-MVP.html?language=en_US
+
+# Last edit: 20220111
+
+# There are also region-specific sites listed in documentation
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.cloudfront.net
+*.glip.com
+*.ringcentral.com
+*.speed.testrtc.com 	
+*.turn.testrtc.com
+*.v.ringcentral.com
+
+RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
+
+# Rest of the domains	
+accounts.google.com
+accounts.ringcentral.com
+analytics.ringcentral.ca
+analytics.ringcentral.com
+api-meet.ringcentral.com
+api-mucc.ringcentral.com
+api-rcapps.ringcentral.biz
+api-rcapps.ringcentral.com 
+api-sp.ringcentral.com
+api.giphy.com
+api.nettest.testrtc.com
+api.push.apple.com
+api.ringcentral.com
+app.ringcentral.com	
+discovery.ringcentral.biz
+dl.mvp.ringcentral.com
+downloads.ringcentral.com	
+glip-vault-1.s3-accelerate.amazonaws.com
+glip-vault-1.s3.amazonaws.com 
+kong.testrtc.com
+live.ringcentral.ca
+live.ringcentral.com
+login.ringcentral.com
+media.ringcentral.com
+media0.giphy.com
+media1.giphy.com
+media2.giphy.com
+media3.giphy.com
+media4.giphy.com
+mpsnare.iesnare.com
+mtalk.google.com
+mvp.ringcentral.com 
+platform.ringcentral.com
+rcv.testrtc.com
+ringcentral.pubnubapi.com
+ringcentral.pubnubapi.com	
+service.ringcentral.com
+sip*.ringcentral.com
+slack.ringcentral.com
+status.ringcentral.com
+teams.ringcentral.com
+v.ringcentral.com
+www.filestackapi.com
+www.google.com
+www.googleapis.com
+
+_IPs_
+66.81.240.0/20
+80.81.128.0/20
+103.44.68.0/22
+104.245.56.0/21
+185.23.248.0/22
+192.209.24.0/21
+199.68.212.0/22
+199.255.120.0/22
+208.87.40.0/22
+
+_URLs_
+[none]

@@ -1,0 +1,58 @@
+# TCP/UDP ports used by BlueJeans Network
+# https://support.bluejeans.com/s/article/TCP-UDP-ports-used-by-BlueJeans-Network
+
+# Last edit: 20220111
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.bluejeans.com
+*.bjn.vc
+*.prod.bjn.io
+
+RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
+
+# Rest of the domains
+bjnsecurez-vh.akamaihd.net
+streaming-akamai.bluejeans.com
+streaming.bluejeans.com
+
+_IPs_
+103.20.59.0/24
+103.255.54.0/24
+104.238.240.0/21
+13.210.3.128/26
+13.233.177.128/26
+13.251.83.128/26
+15.207.34.0/24
+165.254.117.0/24
+18.141.148.64/26  
+199.48.152.0/22
+208.212.64.0/21
+208.212.8.0/21
+3.25.41.0/26
+3.6.70.192/26
+31.171.208.0/21
+34.223.12.128/26
+34.245.240.192/26
+35.175.114.0/26
+35.80.24.192/26
+44.234.22.192/26  
+44.234.53.0/24
+52.215.218.0/26
+8.10.12.0/24
+
+# The following IPs are applicable only to BlueJeans Gateway for Microsoft Teams users: 
+20.43.96.224/28
+20.43.96.240/28
+40.65.172.32/27
+40.65.174.101
+40.91.116.192/27
+52.142.237.32
+52.183.16.252
+52.183.19.47
+52.183.22.7
+52.236.151.32/27
+
+_URLs_
+wss://*.bluejeans.com
+wss://*.prod.bjn.io

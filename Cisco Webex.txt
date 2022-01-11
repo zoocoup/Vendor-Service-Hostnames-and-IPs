@@ -1,0 +1,93 @@
+# Network Requirements for Webex Services
+# https://help.webex.com/en-US/article/WBX000028782/Network-Requirements-for-Webex-Services
+
+# Last edit: 20220111
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+*.accompany.com
+*.amplitude.com
+*.appdynamics.com
+*.cisco.com
+*.ciscospark.com
+*.data.logentries.com
+*.eum-appdynamics.com
+*.giphy.com
+*.sli.do
+*.slido.com
+*.sparkpostmail.com
+*.sparkpostmail1.com
+*.vbrickrev.com
+*.walkme.com
+*.wbx2.com
+*.webex.com
+*.webexcontent.com
+
+# Used for cert crls
+*.quovadisglobal.com
+*.digicert.com
+*.godaddy.com
+*.identrust.com
+*.lencr.org
+*.intel.com
+
+# CDNs
+*.cloudfront.net
+*.akamaiedge.net
+*.akamai.net
+*.fastly.net
+
+RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period in the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
+
+# Rest of the domains
+s3.walkmeusercontent.com
+safebrowsing.googleapis.com
+speech-services-manager-a.wbx2.com
+speech.googleapis.com
+texttospeech.googleapis.com
+
+_IPs_
+114.29.192.0/19
+150.253.128.0/17
+170.133.128.0/18
+170.72.0.0/16
+173.243.0.0/20
+173.39.224.0/19
+18.132.77.0/25
+18.141.157.0/25
+18.181.178.128/25
+18.181.18.0/25
+18.181.204.0/25
+18.230.160.0/25
+20.108.99.0/24
+20.50.235.0/24
+20.53.87.0/24
+20.57.87.0/24
+20.68.154.0/24
+20.76.127.0/24
+207.182.160.0/19
+209.197.192.0/19
+210.4.192.0/20
+216.151.128.0/19
+23.89.0.0/16
+3.101.70.0/25
+3.101.71.0/24
+3.101.77.128/28
+3.22.157.0/26
+3.235.122.0/24
+3.235.123.0/25
+3.235.73.128/25
+3.235.80.0/23
+3.25.56.0/25
+40.119.234.0/24
+44.234.52.192/26
+52.232.210.0/24
+62.109.192.0/18
+64.68.96.0/19
+66.114.160.0/20
+66.163.32.0/19
+69.26.160.0/19
+
+_URLs_
+https://msftncsi.com/ncsi.txt
+https://captive.apple.com/hotspot-detect.html
