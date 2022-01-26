@@ -4,20 +4,27 @@
 # Code With Me System requirements and API calls
 # https://www.jetbrains.com/help/cwm/network-requirements.html
 
-# Last edit: 20220110
+# Last edit: 20220126
 
 _Hostnames_
 account.jetbrains.com
 cache-redirector.jetbrains.com
 code-with-me.jetbrains.com
+code.quarkus.io
 download-cf.jetbrains.com
 download.jetbrains.com
+intellij.net
 jetbrains.team
+launch.micronaut.io
 plugins.jetbrains.com
 pypi.org
 pypi.python.org
 resources.jetbrains.com
 schemastore.org
+search.maven.org
+start.grails.org
+start.microprofile.io
+start.spring.io
 
 _IPs_
 [none]
