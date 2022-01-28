@@ -4,7 +4,7 @@
 # Code With Me System requirements and API calls
 # https://www.jetbrains.com/help/cwm/network-requirements.html
 
-# Last edit: 20220126
+# Last edit: 20220127
 
 _Hostnames_
 account.jetbrains.com
@@ -19,6 +19,7 @@ launch.micronaut.io
 plugins.jetbrains.com
 pypi.org
 pypi.python.org
+raw.githubusercontent.com
 resources.jetbrains.com
 schemastore.org
 search.maven.org
