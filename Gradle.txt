@@ -1,0 +1,18 @@
+# Reference
+https://docs.gradle.org/current/userguide/userguide.html
+
+n.b. No explict page listing sites that need to be allowlisted to work behind corporate firewall, but collected information from various pages in documentation. 
+
+# Last edit: 20220227
+
+_Hostnames_
+downloads.gradle-dn.com
+plugins.gradle.org
+scans.gradle.com
+services.gradle.org
+
+_IPs_
+[none]
+
+_URLs_
+[none]
