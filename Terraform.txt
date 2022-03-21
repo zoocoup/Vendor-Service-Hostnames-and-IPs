@@ -1,0 +1,13 @@
+# Reference
+Tk
+
+# Last edit: 20220321
+
+_Hostnames_
+registry.terraform.io
+
+_IPs_
+[none]
+
+_URLs_
+[none]
