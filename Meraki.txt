@@ -1,0 +1,17 @@
+# Reference
+
+# Account specific information can be found in Meraki Console > Help > Firewall Info
+
+# Last edit: 20220420
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+
+api.meraki.com
+my.meraki.com
+
+_IPs_
+[none]
+
+_URLs_
+[none]
