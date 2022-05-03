@@ -1,0 +1,9 @@
+# These are the service domains used by the Google Android development resources
+
+# Last edit: 20220502
+
+_Hostnames_
+developer.android.com
+
+_IPs_
+[none]
