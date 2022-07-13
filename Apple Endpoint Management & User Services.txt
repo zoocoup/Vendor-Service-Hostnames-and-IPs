@@ -255,7 +255,6 @@ ocsp2.apple.com
 one.apple.com
 oscdn.apple.com
 osrecovery.apple.com
-pancake.com
 p1-u.itunes.apple.com
 p2-u.itunes.apple.com
 partiality.itunes.apple.com
