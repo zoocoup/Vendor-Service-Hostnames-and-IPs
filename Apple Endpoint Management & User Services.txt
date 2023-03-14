@@ -12,7 +12,7 @@
 # https://github.com/bradtchapman/jnuc2019
 
 
-# Last edit: 20220713
+# Last edit: 20230314
 
 _Hostnames_
 #  Wildcards and prime top domain roots
@@ -56,6 +56,7 @@ _Hostnames_
 .podcasts.apple.com
 .prz.apple.com
 .rtlcdn.apple.com
+*.appattest.apple.com
 
 
 RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period at the head of the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
@@ -150,6 +151,8 @@ api.music.apple.com
 api.podcasts.apple.com
 api.push.apple.com
 api.shazam.apple.com
+app-site-association.cdn-apple.com
+app-site-association.networking.apple
 appldnld.apple.com
 appldnld.apple.com.edgesuite.net
 apple-finance.query.yahoo.com
@@ -323,6 +326,7 @@ ws-ee-maidsvc.icloud.com
 www.apple.com
 xp-cdn.apple.com
 xp.apple.com
+
 
 
 _IPs_
