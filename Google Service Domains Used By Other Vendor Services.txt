@@ -2,8 +2,11 @@
 # 
 # Android Enterprise Migration Bluebook
 # https://static.googleusercontent.com/media/www.android.com/en//static/2016/pdfs/enterprise/Android-Enterprise-Migration-Bluebook_2019.pdf
+# 
+# https://captivebehavior.wballiance.com
 
-# Last edit: 20220109
+# Last edit: 20230319
+
 
 _Hostnames_
 #  Wildcards and prime top domain roots
@@ -41,6 +44,7 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 connectivitycheck.android.com
+connectivitycheck.gstatic.com
 cri.pki.goog
 device-provisioning.googleapis.com
 dl-ssl.google.com 
@@ -64,10 +68,12 @@ omahaproxy.appspot.com
 pki.google.com
 play.google.com
 ssl.google-analytics.com
+www.androidbak.net
 www.google-analytics.com
 www.google.com
 www.gstatic.com
 www.recaptcha.net
+
 
 _IPs_
 [none]

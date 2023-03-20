@@ -9,16 +9,19 @@
 # 
 # https://init.itunes.apple.com/bag.xml
 # 
+# https://captivebehavior.wballiance.com
+#
 # https://github.com/bradtchapman/jnuc2019
 
 
-# Last edit: 20230314
+# Last edit: 20230319
 
 _Hostnames_
 #  Wildcards and prime top domain roots
 *-buy.itunes.apple.com
 *-u.itunes.apple.com
 *.aaplimg.com
+*.appattest.apple.com
 *.apple-cloudkit.com
 *.apple-livephotoskit.com
 *.apps.apple.com
@@ -56,7 +59,6 @@ _Hostnames_
 .podcasts.apple.com
 .prz.apple.com
 .rtlcdn.apple.com
-*.appattest.apple.com
 
 
 RegEx that should work for wildcard domains, at least for hostnames with letters, numbers, dash or period at the head of the name: ^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-\.]*[a-zA-Z0-9])\.)example.com
@@ -323,9 +325,15 @@ uts-api-internal.itunes.apple.com
 valid.apple.com
 vpp.itunes.apple.com
 ws-ee-maidsvc.icloud.com
+www.airport.us
 www.apple.com
+www.appleiphonecell.com
+www.ibook.info
+www.itools.info
+www.thinkdifferent.us
 xp-cdn.apple.com
 xp.apple.com
+
 
 
 

@@ -11,8 +11,11 @@
 # 
 # Windows Update troubleshooting
 # https://docs.microsoft.com/en-us/windows/deployment/update/windows-update-troubleshooting
+# 
+# https://captivebehavior.wballiance.com
+#
 
-# Last edit: 20220109
+# Last edit: 20230319
 
 _Hostnames_
 #  Wildcards and prime top domain roots
@@ -35,6 +38,7 @@ intunecdnpeasd.azureedge.net
 login.microsoftonline.com
 m.manage.microsoft.com
 mam.manage.microsoft.com
+msftncsi.com
 naprodimedatahotfix.azureedge.net
 naprodimedatapri.azureedge.net
 naprodimedatasec.azureedge.net
