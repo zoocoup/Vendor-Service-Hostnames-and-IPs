@@ -6,11 +6,51 @@
 
 
 _Hostnames_
+api.crowdstrike.com
+api.eu-1.crowdstrike.com
+api.laggar.gcw.crowdstrike.com
+api.us-2.crowdstrike.com
+api.us-gov-2.crowdstrike.com
 assets-public.falcon.crowdstrike.com
+assets-public.falcon.eu-1.crowdstrike.com
+assets-public.us-2.falcon.crowdstrike.com
 assets.falcon.crowdstrike.com
+assets.falcon.eu-1.crowdstrike.com
+assets.falcon.us-2.crowdstrike.com
+Elastic Load Balancer DNS Name: falconhose-laggar01-g-720386815.us-gov-west-1.elb.amazonaws.com
+Elastic Load Balancer DNS Name: laggar-falconui01-g-245478519.us-gov-west-1.elb.amazonaws.com
+ELB-Laggar-P-LFO-DOWNLOAD-1265997121.us-gov-west-1.elb.amazonaws.com
 falcon.crowdstrike.com
+falcon.eu-1.crowdstrike.com
+falcon.laggar.gcw.crowdstrike.com
+falcon.us-2.crowdstrike.com
+falcon.us-gov-2.crowdstrike.com
+ffc.eu-1.crowdstrike.com
+ffc.laggar.gcw.crowdstrike.com
+ffc.us-1.crowdstrike.com
+ffc.us-2.crowdstrike.com
+ffc.us-gov-2.crowdstrike.com
+ffcng.eu-1.crowdstrike.com
+ffcng.laggar.gcw.crowdstrike.com
+ffcng.us-1.crowdstrike.com
+ffcng.us-2.crowdstrike.com
+ffcng.us-gov-2.crowdstrike.com
+firehose.crowdstrike.com
+firehose.eu-1.crowdstrike.com
+firehose.laggar.gcw.crowdstrike.com
+firehose.us-2.crowdstrike.com
+firehose.us-gov-2.crowdstrike.com
+fodown01-gyr-maverick.cloudsink.net
 lfodown01-b.cloudsink.net
+lfodown01-gyr-maverick.cloudsink.net
+lfodown01-laggar-gcw.cloudsink.net
+lfodown01-us-gov-2.cloudsink.net
+sensorproxy-laggar-g-524628337.us-gov-west-1.elb.amazonaws.com
 ts01-b.cloudsink.net
+ts01-gyr-maverick.cloudsink.net
+ts01-laggar-gcw.cloudsink.net
+ts01-lanner-lion.cloudsink.net
+ts01-us-gov-2.cloudsink.net
 
 _IPs_
 [none]
