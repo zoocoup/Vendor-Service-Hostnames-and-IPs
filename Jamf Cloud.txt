@@ -2,34 +2,68 @@
 # https://docs.jamf.com/technical-articles/Permitting_InboundOutbound_Traffic_with_Jamf_Cloud.html
 # 
 # Network Ports Used by Jamf Pro
-# https://docs.jamf.com/technical-articles/Network_Ports_Used_by_Jamf_Pro.html
+# https://learn.jamf.com/bundle/technical-articles/page/Network_Ports_Used_by_Jamf_Pro.html
 
 # Depending on global region there might be additional hosts
-# Last edit: 20220109
+# Last edit: 20230416
 
 _Hostnames_
-app.pendo.io
-cdn.pendo.io
-csa.services.jamfcloud.com
+*.jamf.com
+*.jamfcloud.com
 [instance name].jamfcloud.com
+csa.services.jamfcloud.com
+hw-model-names.services.jamfcloud.com
 ics.services.jamfcloud.com
-pendo-io-static.storage.googleapis.com
-use1-jcds.services.jamfcloud.com
-use1-jcdsdownloads.services.jamfcloud.com
+jamf-patch.jamfcloud.com
+prod-custom-setting-schemas.s3.amazonaws.com
+sentry.pub.jamf.build
 
 Plus an ELB address something like [company name]-alb-[id].us-east-1.elb.amazonaws.com
 
 _IPs_
-2.223.7.151
-3.226.23.14
+3.20.128.255
+3.23.255.131
+3.130.178.215
+3.130.63.29
+3.133.177.81
+3.136.211.17
+3.138.59.62
+3.143.15.105
+3.143.197.217
+3.143.53.82
+3.217.130.68
+3.223.7.151
+3.226.32.14
+13.59.243.28
+18.119.47.164
+18.190.65.175
+18.224.13.181
+18.224.191.224
+34.210.123.67
 34.233.253.88
 34.234.26.211
+35.80.208.227
+35.85.106.172
+35.162.10.117
+35.167.31.30
+35.167.51.36
+44.226.175.32
+44.233.235.210
+44.234.217.245
+44.241.188.201
+44.242.64.192
 52.1.215.211
 52.1.62.94
-52.203.216.218
+52.10.63.255
+52.206.29.216
+52.34.212.159
+52.34.235.199
 52.39.2.203
 52.39.4.253
 52.71.240.248
-52.72.152.43
+52.89.86.60
+54.157.190.170
 54.208.14.206
 54.208.84.215
+54.212.14.92
+100.21.184.193
