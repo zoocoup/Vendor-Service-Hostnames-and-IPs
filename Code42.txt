@@ -1,0 +1,41 @@
+# The URLs will be account specific
+#
+# IP addresses and ports used by the Code42 platform
+# https://support.code42.com/Incydr/Admin/Planning_and_installing/IP_addresses_and_ports_used_by_the_Code42_platform
+#
+# Test your network connection
+# https://support.code42.com/Incydr/Agent/Troubleshooting/Test_your_network_connection
+# Code42 Cloud networking changes
+# https://success.code42.com/hc/en-us/articles/10377829316119-Code42-Cloud-networking-changes
+
+# Last edit: 20230416
+
+_Hostnames_
+*.code42.com
+cognito-identity-fips.eu-west-1.amazonaws.com
+cognito-identity-fips.us-east-1.amazonaws.com
+cognito-identity.eu-west-1.amazonaws.com
+cognito-identity.us-east-1.amazonaws.com
+console.ie.code42.com
+console.us.code42.com
+console.us2.code42.com
+us-east-1 IP addresses
+
+_IPs_
+38.127.80.0/24*
+50.93.246.0/23
+50.93.255.0/24
+64.207.196.0/22
+64.207.204.0/23
+67.222.248.0/22
+216.9.199.0/24*
+216.17.8.0/24
+38.127.80.0/24
+216.9.199.0/24
+
+_Network Ports_
+636
+4285
+4287
+8200
+8201
