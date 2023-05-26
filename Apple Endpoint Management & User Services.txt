@@ -15,7 +15,7 @@
 # https://github.com/bradtchapman/jnuc2019
 
 
-# Last edit: 20230319
+# Last edit: 20230526
 
 _Hostnames_
 #  Wildcards and prime top domain roots
@@ -216,6 +216,7 @@ gnf-mdn.apple.com
 gnf-mr.apple.com
 gs.apple.com
 gsa.apple.com
+guzzoni.apple.com
 help.apple.com
 homesharing.itunes.apple.com
 humb.apple.com
