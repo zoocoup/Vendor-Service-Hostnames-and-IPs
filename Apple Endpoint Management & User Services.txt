@@ -1,6 +1,7 @@
 # Use Apple products on enterprise networks
 # https://support.apple.com/en-us/HT210060
-# 
+# kbase last updated on May 18, 2023
+#
 # If your Apple devices aren't getting Apple push notifications
 # https://support.apple.com/en-us/HT203609
 # 
