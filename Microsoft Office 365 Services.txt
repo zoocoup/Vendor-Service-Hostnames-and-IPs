@@ -9,7 +9,7 @@
 # Other endpoints not included in the Office 365 IP Address and URL Web service
 # https://docs.microsoft.com/en-us/microsoft-365/enterprise/networking-roadmap-microsoft-365?view=o365-worldwide
 
-# Last edit: 20220109
+# Last edit: 20230715
 
 _Hostnames_
 #  Wildcards and prime top domain roots
@@ -208,6 +208,8 @@ office15client.microsoft.com
 officeapps.live.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
+officecdnmac.microsoft.com
+officeci-mauservice.azurewebsites.net
 officeclient.microsoft.com
 officepreviewredir.microsoft.com
 officeredir.microsoft.com
@@ -255,6 +257,7 @@ web.microsoftstream.com
 wikipedia.firstpartyapps.oaspapps.com
 workplaceanalytics.cdn.office.net
 wus-firstpartyapps.oaspapps.com
+
 
 _IPs_
 104.215.12.254
