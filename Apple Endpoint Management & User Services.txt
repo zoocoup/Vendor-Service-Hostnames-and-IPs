@@ -15,7 +15,7 @@
 # https://github.com/bradtchapman/jnuc2019
 
 
-# Last edit: 20230526
+# Last edit: 20230914
 
 _Hostnames_
 #  Wildcards and prime top domain roots
@@ -325,6 +325,7 @@ upp.itunes.apple.com
 userpub.itunes.apple.com
 uts-api-internal.itunes.apple.com
 valid.apple.com
+vertexsmb.com
 vpp.itunes.apple.com
 ws-ee-maidsvc.icloud.com
 www.airport.us
@@ -335,8 +336,6 @@ www.itools.info
 www.thinkdifferent.us
 xp-cdn.apple.com
 xp.apple.com
-
-
 
 
 _IPs_
