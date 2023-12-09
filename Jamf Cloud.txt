@@ -5,7 +5,7 @@
 # https://learn.jamf.com/bundle/technical-articles/page/Network_Ports_Used_by_Jamf_Pro.html
 
 # Depending on global region there might be additional hosts
-# Last edit: 20230416
+# Last edit: 20231209
 
 _Hostnames_
 *.jamf.com
@@ -15,7 +15,6 @@ apne1-jcds.services.jamfcloud.com
 apne1-jcdsdownloads.services.jamfcloud.com
 apse2-jcds.services.jamfcloud.com
 apse2-jcdsdownloads.services.jamfcloud.com
-csa.services.jamfcloud.com
 d1590uekmzbnci.cloudfront.net
 d1keoc0lihzxgs.cloudfront.net
 d2zt4v5bo59xg8.cloudfront.net
@@ -25,16 +24,11 @@ euc1-jcds.services.jamfcloud.com
 euc1-jcdsdownloads.services.jamfcloud.com
 euw2-jcds.services.jamfcloud.com
 euw2-jcdsdownloads.services.jamfcloud.com
-hw-model-names.services.jamfcloud.com
-ics.services.jamfcloud.com
-jamf-patch.jamfcloud.com
 jcds.apne1.inf.jamf.one
 jcds.apse2.inf.jamf.one
 jcds.euc1.inf.jamf.one
 jcds.euw2.inf.jamf.one
 jcds.use1.inf.jamf.one
-prod-custom-setting-schemas.s3.amazonaws.com
-sentry.pub.jamf.build
 use1-jcds.services.jamfcloud.com
 use1-jcdsdownloads.services.jamfcloud.com
 
