@@ -15,7 +15,7 @@
 # https://github.com/bradtchapman/jnuc2019
 
 
-# Last edit: 20230914
+# Last edit: 20231209
 
 _Hostnames_
 #  Wildcards and prime top domain roots
@@ -277,6 +277,7 @@ podcasts.apple.com
 ppq.apple.com
 prz.apple.com
 radarsubmissions.apple.com
+register.appattest.apple.com
 rtlcdn.apple.com
 s.mzstatic.com
 sb.music.apple.com
