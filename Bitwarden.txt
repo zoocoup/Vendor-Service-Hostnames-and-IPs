@@ -1,0 +1,24 @@
+# References
+# https://bitwarden.com/help/hosting-faqs/
+# https://bitwarden.com/help/public-api/
+# https://bitwarden.com/help/website-icons/#privacy-considerations
+
+# Last edit: 20240303
+
+_Hostnames_
+#  Wildcards and prime top domain roots
+[none]
+
+# Rest of the domains
+api.bitwarden.com
+api.bitwarden.eu
+icons.bitwarden.net
+identity.bitwarden.com
+identity.bitwarden.eu
+push.bitwarden.com
+
+_IPs_
+[none]
+
+_URLs_
+[none]
